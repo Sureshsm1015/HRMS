@@ -339,18 +339,4 @@ python manage.py runserver 8080   # For Windows
   </a>
 </p>
 
----
 
-## **Authors**
-
-[Cybrosys Technologies](https://www.cybrosys.com/)
-
----
-
-## **About**
-
-[Horilla](https://www.horilla.com/) is an open-source HRMS solution designed to simplify HR operations and improve organizational efficiency.
-
----
-
-This README provides a comprehensive guide to installing and setting up Horilla on various platforms. If you encounter any issues, feel free to reach out to the Horilla community for support. Happy coding! 🚀
