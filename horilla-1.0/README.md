@@ -1,28 +1,4 @@
-**Horilla** is a Free and Open Source HRMS (Human Resource Management System) Software designed to streamline HR processes and enhance organizational efficiency.
 
-![Horilla Screenshot](https://github.com/horilla-opensource/horilla/assets/131998600/1317bd0a-03a8-40be-8fb2-ecb655bb5c13)
-
----
-
-## **Installation**
-
-Horilla can be installed on your system by following the steps below. Ensure you have **Python**, **Django**, and a **database** (preferably PostgreSQL) installed as prerequisites.
-
----
-
-## **Prerequisites**
-
-### **1. Python Installation**
-
-#### **Ubuntu**
-1. Open the terminal and install Python:
-   ```bash
-   sudo apt-get install python3
-   ```
-2. Verify the installation:
-   ```bash
-   python3 --version
-   ```
 
 #### **Windows**
 1. Download Python from the [official website](https://www.python.org/downloads/windows/).
